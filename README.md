@@ -37,7 +37,6 @@ flowchart LR
 
 ## Technology
 
-* **Microsoft Power Automate**
 * Rule-based parsing
 * Conditional logic
 * Automated email processing
